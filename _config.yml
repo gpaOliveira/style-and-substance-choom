@@ -1,2 +1,10 @@
 remote_theme: jekyll-theme-hacker
 theme: jekyll-theme-hacker
+
+navigation:
+- text: Introduction
+  internal: true
+  url: ./
+- text: Add a new page
+  internal: true
+  url: new-page
